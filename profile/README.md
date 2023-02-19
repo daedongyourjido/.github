@@ -1,6 +1,5 @@
 
-# 2023 smu capstone
-
+# 2023 상명대학교 캡스톤 프로젝트
 <!--
 
 **Here are some ideas to get you started:**

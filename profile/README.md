@@ -1,6 +1,5 @@
-2023 smu capstone
 
-## Hi there 👋
+# 2023 smu capstone
 
 <!--
 

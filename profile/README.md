@@ -1,4 +1,7 @@
 # 2023 상명대학교 캡스톤 프로젝트 - 대동유어지도
+<img width="850" alt="스크린샷 2023-10-10 오후 11 23 00" src="https://github.com/daedongyourjido/.github/assets/90092013/2f74cbca-6163-4071-aa03-410049b74124"> <img height="850" alt="스크린샷 2023-10-10 오후 11 22 08" src="https://github.com/daedongyourjido/.github/assets/90092013/b56b302e-c8c2-4217-b5f5-a87364fb1d4f">
+
+
 
 ## 목차
 1. [프로젝트 개요](#프로젝트개요)<br/>
